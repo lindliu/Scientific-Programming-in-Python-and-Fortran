@@ -1,0 +1,27 @@
+{
+	"revision" : 0,
+	"rules" : 
+	[
+		{
+			"outputs" : [],
+			"primary-output" : "CMakeFiles\\\\particles.dir\\\\C_\\\\Users\\\\jo6815en\\\\Desktop\\\\lectures\\\\python_lecture\\\\project_skeleton\\\\src\\\\common\\\\particle_data.f90.obj",
+			"provides" : 
+			[
+				{
+					"compiled-module-path" : "particle_data.mod",
+					"logical-name" : "particle_data.mod"
+				}
+			],
+			"requires" : 
+			[
+				{
+					"logical-name" : "mf_datatypes.mod"
+				},
+				{
+					"logical-name" : "mf_utils.mod"
+				}
+			]
+		}
+	],
+	"version" : 0
+}

@@ -1,0 +1,24 @@
+{
+	"revision" : 0,
+	"rules" : 
+	[
+		{
+			"outputs" : [],
+			"primary-output" : "CMakeFiles\\\\particles.dir\\\\C_\\\\Users\\\\jo6815en\\\\Desktop\\\\lectures\\\\python_lecture\\\\project_skeleton\\\\src\\\\common\\\\mf_utils.f90.obj",
+			"provides" : 
+			[
+				{
+					"compiled-module-path" : "mf_utils.mod",
+					"logical-name" : "mf_utils.mod"
+				}
+			],
+			"requires" : 
+			[
+				{
+					"logical-name" : "mf_datatypes.mod"
+				}
+			]
+		}
+	],
+	"version" : 0
+}

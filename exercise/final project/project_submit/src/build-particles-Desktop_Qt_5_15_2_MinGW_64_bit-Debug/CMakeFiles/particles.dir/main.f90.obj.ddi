@@ -1,0 +1,24 @@
+{
+	"revision" : 0,
+	"rules" : 
+	[
+		{
+			"outputs" : [],
+			"primary-output" : "CMakeFiles\\\\particles.dir\\\\main.f90.obj",
+			"provides" : [],
+			"requires" : 
+			[
+				{
+					"logical-name" : "mf_datatypes.mod"
+				},
+				{
+					"logical-name" : "particle_data.mod"
+				},
+				{
+					"logical-name" : "particle_sim.mod"
+				}
+			]
+		}
+	],
+	"version" : 0
+}

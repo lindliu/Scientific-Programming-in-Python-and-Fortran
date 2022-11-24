@@ -1,0 +1,24 @@
+{
+	"revision" : 0,
+	"rules" : 
+	[
+		{
+			"outputs" : [],
+			"primary-output" : "CMakeFiles\\\\particles.dir\\\\C_\\\\Users\\\\jo6815en\\\\Desktop\\\\lectures\\\\python_lecture\\\\project_skeleton\\\\src\\\\common\\\\mf_datatypes.f90.obj",
+			"provides" : 
+			[
+				{
+					"compiled-module-path" : "mf_datatypes.mod",
+					"logical-name" : "mf_datatypes.mod"
+				}
+			],
+			"requires" : 
+			[
+				{
+					"logical-name" : "iso_fortran_env.mod"
+				}
+			]
+		}
+	],
+	"version" : 0
+}

@@ -1,0 +1,24 @@
+{
+	"revision" : 0,
+	"rules" : 
+	[
+		{
+			"outputs" : [],
+			"primary-output" : "CMakeFiles\\\\particles.dir\\\\C_\\\\Users\\\\jo6815en\\\\Desktop\\\\project_submit\\\\src\\\\common\\\\vector_operations.f90.obj",
+			"provides" : 
+			[
+				{
+					"compiled-module-path" : "vector_operations.mod",
+					"logical-name" : "vector_operations.mod"
+				}
+			],
+			"requires" : 
+			[
+				{
+					"logical-name" : "mf_datatypes.mod"
+				}
+			]
+		}
+	],
+	"version" : 0
+}
